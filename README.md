@@ -1,14 +1,17 @@
 <h1 align="center">Hola 👋, soy Juan / ItsJuanKamilo ✨</h1>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/juanleiton" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;">
   </a>
+  <!-- Gmail -->
   <a href="mailto:juancamiloprivate@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin: 0 10px;">
   </a>
-  <a href="https://juanleiton-presentation.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website">
+  <!-- Website -->
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Website" width="40" height="40" style="margin: 0 10px;">
   </a>
 </p>
 
