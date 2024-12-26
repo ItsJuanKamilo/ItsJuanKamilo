@@ -1,73 +1,51 @@
-<h1 align="center">Hola 👋  soy Juan / ItsJuanKamilo ✨ </h1> 
+<h1 align="center">Hola 👋, soy Juan / ItsJuanKamilo ✨</h1>
 
-<p align="left">
-<a href="https://linkedin.com/in/juanleiton" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:juancamiloprivate@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software
-
-📝 roles en el ámbito: desarrollador... líder... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **juancamiloprivate@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,vscode,bash,ai,ps&perline=12" />
+<p align="center">
+  <a href="https://linkedin.com/in/juanleiton" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:juancamiloprivate@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-<br>
-<!------------------------->
-<div id="apoyo">
-<h2>Si quieres apoyarme 😻</h2>
-  <p align="left">
- <a href='https://cafecito.app/ItsJuanKamilo' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Invitame un café en cafecito.app' align="left" height="50" width="230"/></a>  
-  </p>
-</div>
-  <br>
-<br><br>
+
+<h2>Sobre mí 😃</h2>
+
+<p align="left">
+  🎓 Ingeniero en Informática con varios años de experiencia en desarrollo de software.<br>
+  💻 He desempeñado roles como desarrollador, líder y programador freelance.<br>
+  📝 Siempre abierto a nuevas oportunidades y desafíos.<br>
+  📫 Contacto: <a href="mailto:juancamiloprivate@gmail.com">juancamiloprivate@gmail.com</a>
+</p>
+
+<h2>Tecnologías que manejo 👨🏻‍💻</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,vscode,bash,ai,ps&perline=12" alt="Tecnologías">
+  </a>
+</p>
+
+<h2>Si deseas apoyarme 😻</h2>
+
+<p align="center">
+  <a href="https://cafecito.app/ItsJuanKamilo" target="_blank" rel="noopener">
+    <img src="https://cdn.cafecito.app/imgs/buttons/button_1.png" srcset="https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x" alt="Invítame un café en cafecito.app" height="50" width="230">
+  </a>
+</p>
 
 <h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" alt="Estadísticas de racha de GitHub">
+</p>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Lenguajes más usados en GitHub">
+</p>
 
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos de GitHub" width="84%">
+  </a>
+</p>
