@@ -4,9 +4,9 @@
   <!-- LinkedIn Icon -->
   <a href="https://linkedin.com/in/juanleiton"><img src="https://img.icons8.com/color-pixels/64/linkedin.png" alt="LinkedIn"/></a>
   <!-- Gmail -->
-	<a href="mailto:juancamiloprivate@gmail.com"><img src="https://img.icons8.com/color-pixels/64/new-post.png" alt="Gmail"/></a>
+  <a href="mailto:juancamiloprivate@gmail.com"><img src="https://img.icons8.com/color-pixels/64/gmail.png" alt="Gmail"/></a>
   <!-- Website -->
-   <a href="https://juanleiton-presentation.vercel.app/"><img src="https://img.icons8.com/color-pixels/64/laptop-coding.png" alt="Website"/></a>
+   <a href="https://juanleiton-presentation.vercel.app/"><img src="https://img.icons8.com/color-pixels/64/web-design.png" alt="Website"/></a>
 </p>
 
 <h2>Sobre mí 😃</h2>
