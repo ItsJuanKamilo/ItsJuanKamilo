@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,vscode,bash,ai,ps&perline=12" alt="Tecnologías">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,vscode&perline=12" alt="Tecnologías">
   </a>
 </p>
 
