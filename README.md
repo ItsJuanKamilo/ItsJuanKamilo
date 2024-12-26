@@ -13,7 +13,7 @@
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **juancamiloprivate@gmail.com**
 <!--Intro end-->
