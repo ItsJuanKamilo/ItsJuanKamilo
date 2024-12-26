@@ -2,10 +2,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/juanleiton" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:juancamiloprivate@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://juanleiton-presentation.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website">
   </a>
 </p>
 
