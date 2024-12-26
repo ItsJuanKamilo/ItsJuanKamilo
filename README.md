@@ -2,17 +2,11 @@
 
 <p align="center">
   <!-- LinkedIn Icon -->
-  <a href="https://linkedin.com/in/juanleiton" target="_blank">
-  <i class="fa-brands fa-linkedin" style="font-size: 40px; color: #0077B5;"></i>
-</a>
+  <a href="https://linkedin.com/in/juanleiton"><img src="https://img.icons8.com/color-pixels/64/linkedin.png" alt="LinkedIn"/></a>
   <!-- Gmail -->
-  <a href="mailto:juancamiloprivate@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Mail" width="40" height="40" style="margin: 0 10px;">
-  </a>
+	<a href="mailto:juancamiloprivate@gmail.com"><img src="https://img.icons8.com/color-pixels/64/new-post.png" alt="Gmail"/></a>
   <!-- Website -->
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Website" width="40" height="40" style="margin: 0 10px;">
-  </a>
+   <a href="https://juanleiton-presentation.vercel.app/"><img src="https://img.icons8.com/color-pixels/64/laptop-coding.png" alt="Website"/></a>
 </p>
 
 <h2>Sobre mí 😃</h2>
