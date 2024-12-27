@@ -32,18 +32,21 @@
   </a>
 </p>
 
-<h2>GitHub :octocat:</h2>
+<strong>📊 My Github Stats :</strong><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsJuanKamilo&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJuanKamilo&theme=radical&hide_border=true"/><br><br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" alt="Estadísticas de racha de GitHub">
-</p>
+<strong>💡 My Languages :</strong><br><br>
+<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJuanKamilo&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Lenguajes más usados en GitHub">
-</p>
+<strong>🚀 My Latest Update :</strong><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsJuanKamilo&repo=ItsJuanKamilo&theme=radical)](https://github.com/ItsJuanKamilo/ItsJuanKamilo)
+</div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos de GitHub" width="84%">
-  </a>
-</p>
+------
+Credit: [ItsJuanKamilo](https://github.com/ItsJuanKamilo)
+Last Edited on: 27/12/2024
