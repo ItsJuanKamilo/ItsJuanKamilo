@@ -18,8 +18,8 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
-  🎓 Ingeniero en Informática con varios años de experiencia en desarrollo de software.<br>
-  💻 He desempeñado roles como desarrollador, líder y programador freelance.<br>
+  🎓 Ingeniero en Informática, desarrollo de software.<br>
+  💻 He desempeñado roles como desarrollador y programador freelance.<br>
   📝 Siempre abierto a nuevas oportunidades y desafíos.<br>
   📫 Contacto: <a href="mailto:juancamiloprivate@gmail.com">juancamiloprivate@gmail.com</a>
 </p>
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,dart,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,vscode&perline=12" alt="Tecnologías">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,vscode&perline=12" alt="Tecnologías">
   </a>
 </p>
 
