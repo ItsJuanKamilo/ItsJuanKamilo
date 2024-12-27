@@ -53,19 +53,6 @@
   </a>
 </div>
 
-<!-- SUPPORT -->
-<hr>
-<div align="center">
-  <h3>Support:</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/ItsJuanKamilo">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-    </a>
-  </p>
-</div>
-
-
-
 ------
 Credit: [ItsJuanKamilo](https://github.com/ItsJuanKamilo)
 Last Edited on: 27/12/2024
