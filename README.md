@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<h4 align="center">Vistas</h4>
+<h4 align="center">Views</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ItsJuanKamilo}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
