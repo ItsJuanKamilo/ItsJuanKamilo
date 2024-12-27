@@ -31,32 +31,41 @@
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,postman,vscode&perline=12" alt="Tecnologías">
   </a>
 </p>
+<hr style="width:80%; border:1px solid #ccc;">
 
-<strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsJuanKamilo&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJuanKamilo&theme=radical&hide_border=true"/><br><br>
-
-<strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJuanKamilo&langs_count_private=true&theme=radical&card_width=445)<br><br>
-
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsJuanKamilo&repo=ItsJuanKamilo&theme=radical)](https://github.com/ItsJuanKamilo/ItsJuanKamilo)
+<div align="center">
+  <strong>📊 My Github Stats :</strong><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsJuanKamilo&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" style="max-width: 45%; min-width: 300px;">
+    <!-- GitHub Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJuanKamilo&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="max-width: 45%; min-width: 300px;">
+  <hr style="width:80%; border:1px solid #ccc;">
+  
+  <strong>💡 My Languages :</strong><br><br>
+  <img src="https://img.shields.io/badge/-R-lightgrey?style=plastic" alt="R Badge"/>
+  <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic" alt="C++ Badge"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJuanKamilo&langs_count_private=true&theme=radical&card_width=445" alt="Top Languages"/><br>
+  <hr style="width:80%; border:1px solid #ccc;">
+  
+  <strong>🚀 My Latest Update :</strong><br><br>
+  <a href="https://github.com/ItsJuanKamilo/ItsJuanKamilo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJuanKamilo&repo=ItsJuanKamilo&theme=radical" alt="Pinned Repository"/>
+  </a>
 </div>
 
 <!-- SUPPORT -->
 <hr>
-<p>
-  <h3 align="center">Support:</h3>
+<div align="center">
+  <h3>Support:</h3>
   <p>
     <a href="https://www.buymeacoffee.com/ItsJuanKamilo">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
     </a>
   </p>
-</p>
+</div>
+
+
 
 ------
 Credit: [ItsJuanKamilo](https://github.com/ItsJuanKamilo)
