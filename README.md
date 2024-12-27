@@ -37,7 +37,6 @@
   <strong>📊 My Github Stats :</strong><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ItsJuanKamilo&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" style="max-width: 45%; min-width: 300px;">
     <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJuanKamilo&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="max-width: 45%; min-width: 300px;">
   <hr style="width:80%; border:1px solid #ccc;">
   
   <strong>💡 My Languages :</strong><br><br>
