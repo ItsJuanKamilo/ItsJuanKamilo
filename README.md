@@ -28,14 +28,6 @@
   </a>
 </p>
 
-<h2>Si deseas apoyarme 😻</h2>
-
-<p align="center">
-  <a href="https://cafecito.app/ItsJuanKamilo" target="_blank" rel="noopener">
-    <img src="https://cdn.cafecito.app/imgs/buttons/button_1.png" srcset="https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x" alt="Invítame un café en cafecito.app" height="50" width="230">
-  </a>
-</p>
-
 <h2>GitHub :octocat:</h2>
 
 <p align="center">
