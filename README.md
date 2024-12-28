@@ -47,11 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJuanKamilo&langs_count_private=true&theme=radical&card_width=445" alt="Top Languages"/><br>
   <hr style="width:80%; border:1px solid #ccc;">
   
-  <strong>🚀 My Latest Update :</strong><br><br>
-  <a href="https://github.com/ItsJuanKamilo/ItsJuanKamilo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsJuanKamilo&repo=ItsJuanKamilo&theme=radical" alt="Pinned Repository"/>
-  </a>
-</div>
 
 ------
 Credit: [ItsJuanKamilo](https://github.com/ItsJuanKamilo)
